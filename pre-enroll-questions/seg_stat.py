@@ -12,10 +12,11 @@ with open("happiness_seg.txt", "rt") as textfile:
 	striped_text = striped_text.replace("”", "")
 	striped_text = striped_text.replace("?", "")
 	striped_text = striped_text.replace("；", "")
-	striped_text = striped_text.replace(":", "")
+	striped_text = striped_text.replace("：", "")
 	striped_text = striped_text.replace("(", "")
 	striped_text = striped_text.replace(")", "")
 	striped_text = striped_text.replace("―", "")
+	striped_text = striped_text.replace("　", "")
 
 	# split words
 	seg_list = striped_text.split()

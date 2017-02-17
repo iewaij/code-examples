@@ -43,4 +43,4 @@ word_counts = Counter(combine_long(seg_list))
 top_ten = word_counts.most_common(10)
 
 for word in top_ten:
-	print word[0]
+	print "词组：「%s」 频率：%d" % (word[0], word[1])

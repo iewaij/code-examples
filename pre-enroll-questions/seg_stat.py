@@ -24,12 +24,12 @@ with open("happiness_seg.txt", "rt") as textfile:
 output_list = []
 def combine_short (input):
 	# a recursive function but only workable when input list is not too long
-	global output_input
+	global output_list
 	if len(input) <= 1:
 		pass
 	else:
-		output_input.append(input[0] + input[1])
-		combine(input[1:])
+		output_list.append(input[0] + input[1])
+		combine_short(input[1:])
 
 
 def combine_long (input):

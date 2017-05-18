@@ -1,4 +1,4 @@
-# machine-learning-lab
+# Machine Learning Lab
 A place to play with machine learning and deep learning.
 
 ## Seg_text
@@ -8,7 +8,7 @@ Separate text into list and calculate word frequency.
 Generate sentences based on the N-gram model. Details behind N-gram model are expained in [my blog](http://lijiawei.cc/2017/03/14/N-gram/) in Chinese.
 
 ## Naive-bayes
-Determine whether the input Chinese sentence is positive or negative based on naive bayes algorithm.
+Determine whether input sentence is positive or negative based on naive bayes algorithm.
 
 ## Gradient-descent
 Linear regression based on gradient descent algorithm.

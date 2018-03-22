@@ -34,7 +34,7 @@ Using analytical method of least square to predict the ETA of buses in Pittsburg
 [**Tweets Classification**](/Tweets%20Classification/text_classification.ipynb)  
 Predict the political background (GOP or Democratic) from a tweet using SVM from _scikit-learn_. It is based on homework from [Practical Data Science](http://www.datasciencecourse.org/assignments/).
 
-[**Data Collection and EDA**](/Data%20Collection%20through%20Web%20API/hw2.ipynb)  
+[**Data Collection and EDA**](/Data%20Collection%20through%20Web%20API/hw2.ipynb)  
 Collect data through Twitter API and detect whether the top two US president candidates' tweets were written by their aides through visualization. It is based on homework from [DS100](http://www.ds100.org/sp17/materials)
 
 [**N-gram**](/N-gram/article_n-gram.ipynb)  

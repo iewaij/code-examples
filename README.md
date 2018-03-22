@@ -16,7 +16,7 @@ Separate text into list and calculate word frequency.
 
 ## Other Languages
 [**SML**](/sml.sml)  
-Standard ML is a general-purpose, modular, functional programming language with compile-time type checking and type inference. In the code I made several functions to takle date calculation.
+Standard ML is a general-purpose, modular, functional programming language with compile-time type checking and type inference. In the code I made several functions to deal with date calculation.
 
 [**Julia**](https://github.com/iewaij/DiffEqParamEstim.jl/blob/dev/src/build_loss_objective.jl)  
 Julia is a high-level, high-performance dynamic programming language for numerical computing. In this example, I build a function to calculate multi-loss of parameter estimation.

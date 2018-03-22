@@ -11,7 +11,7 @@ Generate a list of prime numbers recursively.
 [**Hanoi Tower**](/hanoiTowerSolver.py)  
 Solve Hanoi tower problem recursively.
 
-[**Separate Text**](/Seg-text/seg_stat.py)  
+[**Separate Text**](/Seg-text/seg_stat.py)  
 Separate text into list and calculate word frequency.
 
 ## Data Science

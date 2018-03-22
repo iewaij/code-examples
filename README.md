@@ -11,7 +11,7 @@ Generate a list of prime numbers recursively.
 [**Hanoi Tower**](/hanoiTowerSolver.py)  
 Solve Hanoi tower problem recursively.
 
-[**Seg_text**](/Seg-text)  
+[**Separate Text**](/Seg-text/seg_stat.py)  
 Separate text into list and calculate word frequency.
 
 ## Data Science
@@ -33,11 +33,11 @@ Generate sentences using N-gram model. The corpus is [my blog](http://lijiawei.c
 [**Naive-bayes**](/Naive-bayes/Naive_Emo_Bayes.ipynb)  
 Determine whether input sentence is positive or negative based on naive bayes algorithm.
 
-[**Gradient Descent**](https://github.com/iewaij/code-example/blob/master/Gradient-descent/Gradient_Descent.ipynb)  
+[**Gradient Descent**](/Gradient Descent//Gradient_Descent.ipynb)  
 Linear regression based on gradient descent algorithm.
 
-[**Mini-batch gradient descent**](https://github.com/iewaij/code-example/blob/master/Mini-batch-gradient-descent/mini_batch_gradient_descent.ipynb)  
+[**Mini-batch gradient descent**](/Mini-batch Gradient Descent/mini_batch_gradient_descent.ipynb)  
 Calculate the same linear regression as gradient descent but using smaller sample to train the model.
 
-[**Neural-network classification**](/Neural-network-classification)  
+[**Neural-network classification**](Neural-network Classification/sigmoid_1h_nn.ipynb)  
 Classify whether the data is 1 or 0 (shown in the decision boundary graph) using _TensorFlow_.
